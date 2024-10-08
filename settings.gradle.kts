@@ -1,1 +1,1 @@
-rootProject.name = "insight-into-me-api"
+rootProject.name = "insight_into_me_api"
