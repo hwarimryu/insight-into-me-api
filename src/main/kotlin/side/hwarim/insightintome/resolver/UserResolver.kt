@@ -5,7 +5,6 @@ import org.springframework.stereotype.Controller
 
 @Controller
 class UserResolver
-
 @QueryMapping
 fun hello(): String {
     return "hello";
